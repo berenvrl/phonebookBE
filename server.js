@@ -3,6 +3,9 @@ const morgan = require("morgan");
 const app = express();
 const cors = require("cors");
 
+//for making express show static content
+app.use(express.static("dist"));
+
 //for accessing data easily when post a new data:
 app.use(express.json());
 
