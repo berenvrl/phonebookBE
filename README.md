@@ -1,6 +1,6 @@
-# 📞Phonebook FullStack Project
+# 📞Phonebook Project
 
-Simple phonebook app for a user who can add, update or delete a new user.
+A simple phonebook app with a focus on both frontend and backend, allowing users to add, update, or delete contacts.
 
 # Built with
 
